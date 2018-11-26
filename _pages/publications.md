@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 * Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records (Spotlight, 6% acceptance rate)  
-X Liu\*, **K Xu\***, P Xie and E Xing (\*: equal contribution)    
+X. Liu\*, **K. Xu\***, P. Xie and E. Xing (\*: equal contribution)    
 Machine Learning for Health (ML4H) Workshop at NeurIPS 2018 [<a href="https://arxiv.org/abs/1811.08040"><u>arXiv</u></a>]
 
-* Multimodal Machine Learning for Automated ICD Coding
+* Multimodal Machine Learning for Automated ICD Coding  
 **K. Xu** and et al.  
 arXiv:1810.13348. 2018 [<a href="https://arxiv.org/abs/1810.13348"><u>arXiv</u></a>]
 
