@@ -9,7 +9,7 @@ X. Liu\*, **K. Xu\***, P. Xie and E. Xing (\*: equal contribution)
 Machine Learning for Health (ML4H) Workshop at NeurIPS 2018 [<a href="https://arxiv.org/abs/1811.08040"><u>arXiv</u></a>]
 
 * Multimodal Machine Learning for Automated ICD Coding  
-**K. Xu** and et al.  
+**K. Xu**, M. Lam, J. Pang, X. Gao, C. Band, P. Mathur MD, F. Papay MD, A. K. Khanna MD, J. B. Cywinski MD, K. Maheshwari MD, P. Xie and E. Xing    
 arXiv:1810.13348. 2018 [<a href="https://arxiv.org/abs/1810.13348"><u>arXiv</u></a>]
 
 * Dynamic shard cutoff prediction for selective search  
