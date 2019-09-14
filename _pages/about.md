@@ -16,7 +16,7 @@ Before that, I gradudated from <a href="https://www.lti.cs.cmu.edu/learn"><u>Mas
 Before comming to CMU, I earned my Bachelor degree from Beihang University. I worked as a research assistant under the supervison of Professor <a href="http://www.thuir.cn/group/~YQLiu/"><u>Yiqun Liu</u></a> at Tsinghua University.
 
 You can reach me via emails:  
-(Work) keyang.xu at petuum dot com  
+(Work) keyang.xu at columbia dot edu 
 (Personal) xky0714 at gmail dot com   
 
 
