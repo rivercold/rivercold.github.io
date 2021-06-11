@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Unsupervised Out-of-Domain Detection via Pre-trained Transformers. 
+**K. Xu\***, T. Ren, S. Zhang, Y.Feng and C. Xiong
+To appear in ACL 2021. [<a href="https://arxiv.org/abs/2106.00948"><u>arXiv</u></a>] [<a href="https://github.com/rivercold/BERT-unsupervised-OOD"><u>Code</u></a>]
+
 * Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records (Spotlight, 6% acceptance rate)  
 X. Liu\*, **K. Xu\***, P. Xie and E. Xing (\*: equal contribution)    
 Machine Learning for Health (ML4H) Workshop at NeurIPS 2018 [<a href="https://arxiv.org/abs/1811.08040"><u>arXiv</u></a>]
