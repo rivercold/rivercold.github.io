@@ -13,7 +13,7 @@ I had been a full-time senior machine learning engineer at Petuum Inc. for two y
 
 Before that, I gradudated from <a href="https://www.lti.cs.cmu.edu/learn"><u>Master of Language Technologies</u></a> (MLT) program at Language Technologies Institute, Carnegie Mellon University. I worked with Professor <a href="http://www.cs.cmu.edu/~callan/"><u>Jamie Callan</u></a> on information retrieval and web mining.   
 
-Before comming to CMU, I earned my Bachelor degree from Beihang University. I worked as a research assistant under the supervison of Professor <a href="http://www.thuir.cn/group/~YQLiu/"><u>Yiqun Liu</u></a> at Tsinghua University.
+Before coming to CMU, I earned my Bachelor degree from Beihang University. I worked as a research assistant under the supervison of Professor <a href="http://www.thuir.cn/group/~YQLiu/"><u>Yiqun Liu</u></a> at Tsinghua University.
 
 You can reach me via emails:  
 (Work) keyang.xu at columbia dot edu 
